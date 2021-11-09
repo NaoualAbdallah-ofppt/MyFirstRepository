@@ -1,0 +1,38 @@
+[
+    {
+        "reference":"P1",
+        "libelle":"bluetooth smart watch",
+        "prix":572.5,
+        "remise":40,
+        "qte":20,
+        "photo":"p1.png",
+        "created_at":"12/10/2000"
+    },
+    {
+        "reference":"P2",
+        "libelle":"smart watch carte sim noire",
+        "prix":700,
+        "remise":78,
+        "qte":0,
+        "photo":"p2.png",
+        "created_at":"12/10/2005"
+    },
+    {
+        "reference":"P3",
+        "libelle":"Ampoule haute qualité",
+        "prix":320,
+        "remise":53,
+        "qte":30,
+        "photo":"p3.png",
+        "created_at":"10/12/2020"
+    },
+    {
+        "reference":"P4",
+        "libelle":"Sac à dos",
+        "prix":410,
+        "remise":27,
+        "qte":2,
+        "photo":"p4.png",
+        "created_at":"14/10/2021"
+    }
+]
